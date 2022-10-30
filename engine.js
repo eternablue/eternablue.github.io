@@ -32,4 +32,4 @@ function draw()
     y += dy;
 }
 
-setInterval(draw, 1);
+setInterval(draw, 5);
